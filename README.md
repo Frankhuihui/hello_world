@@ -1,2 +1,5 @@
 # hello_world
-just test how to creat a repository
+
+Hi Humans!
+
+This is my first to come here.I'm so pround of what I do.In the world of github,I will become stronger.
